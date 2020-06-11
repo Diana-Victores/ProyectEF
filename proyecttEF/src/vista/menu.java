@@ -46,10 +46,8 @@ public class menu extends javax.swing.JFrame {
             menuSalir.setVisible(true);
         } else {
             menuSalir.setVisible(false);
-            menuHerramientas.setVisible(false);
-           
+            menuHerramientas.setVisible(false);     
         }
-
     }
 
     @SuppressWarnings("unchecked")
