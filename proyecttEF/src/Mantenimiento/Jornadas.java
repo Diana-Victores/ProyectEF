@@ -124,7 +124,7 @@ public class Jornadas extends javax.swing.JFrame {
         jLabel6.setText("ID");
         jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 250, -1, -1));
 
-        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 0, 390, 310));
+        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 0, 400, 310));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents

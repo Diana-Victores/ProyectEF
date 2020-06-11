@@ -123,7 +123,7 @@ public class Sedes extends javax.swing.JFrame {
         jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 250, -1, -1));
         jPanel1.add(txtestatus, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 140, 163, -1));
 
-        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 400, 310));
+        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 410, 310));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
